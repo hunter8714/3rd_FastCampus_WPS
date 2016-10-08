@@ -4,11 +4,11 @@ Week4~7. Software Engineering - **Agile software development**
 <br>
 ### :dart: **이론**
 
-#### <i class="icon-pencil"></i> **Agile software development**
+#### :pencil: **Agile software development**
 - #####**Agile process ?**
 아무런 계획이 없는 개발 방법(Practice)과 계획이 지나치게 많은 개발 방법(Process)들 사이에서 타협점을 찾는 방법론.
 
-#### <i class="icon-pencil"></i> **Practice vs Process**
+#### :apple: **Practice vs Process**
 - #####**Process ?**
 모든 것이 갖추어진 상태에서 필요한 것을 고르는 것.
 누가 하든지 항상 결과가 동일.
