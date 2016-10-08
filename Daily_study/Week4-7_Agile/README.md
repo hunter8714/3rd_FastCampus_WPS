@@ -2,7 +2,7 @@ Week4~7. Software Engineering - **Agile software development**
 -----
 
 <br>
-### <i class="icon-file"></i> **이론**
+### :dart: **이론**
 
 #### <i class="icon-pencil"></i> **Agile software development**
 - #####**Agile process ?**
