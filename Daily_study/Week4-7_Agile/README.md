@@ -2,13 +2,13 @@ Week4~7. Software Engineering - **Agile software development**
 -----
 
 <br>
-### :dart: **이론**
+### :blue_note: **이론**
 
-#### :pencil: **Agile software development**
+#### :note: **Agile software development**
 - #####**Agile process ?**
 아무런 계획이 없는 개발 방법(Practice)과 계획이 지나치게 많은 개발 방법(Process)들 사이에서 타협점을 찾는 방법론.
 
-#### :apple: **Practice vs Process**
+#### :refresh: **Practice vs Process**
 - #####**Process ?**
 모든 것이 갖추어진 상태에서 필요한 것을 고르는 것.
 누가 하든지 항상 결과가 동일.
@@ -16,11 +16,11 @@ Week4~7. Software Engineering - **Agile software development**
 아무 것도 없는 상태에서 필요한 기술들을 골라서 만들어 가는 것.
 누가 하느냐에 따라서 결과가 다름.
 
-#### :calender: **이전 개발 프로세스들의 형태**
+#### :calendar: **이전 개발 프로세스들의 형태**
 - Waterfall Model (폭포수 모델)
 - Plan-driven development (계획 기반 개발 모델)
 
-#### :practice: **Agile Process Models**
+#### :upload: **Agile Process Models**
 
 - #####**익스트림 프로그래밍(Extreme Programming, XP)** 
 
