@@ -49,10 +49,10 @@ Week4~7. Software Engineering - **Agile software development**
 <br>
 
 >#### <i class="icon-refresh"></i> **실습**
-- **Week4_Day2 - XP (Extreme Programming, XP)**
-- **Week5_Day2 - **
-- **Week6_Day2 - **
-- **Week7_Day2 - **
+- **Week4_Day3 - XP (Extreme Programming, XP)**
+- **Week5_Day3 - TDD**
+- **Week6_Day3 - **
+- **Week7_Day3 - **
 <br>
 <br>
 
